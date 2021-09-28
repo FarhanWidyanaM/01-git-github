@@ -28,3 +28,24 @@ $ git config --global user.email "Nama Email yang digunakan"
 
 2. untuk mengecek ketik comannd seperti ini $ git config --list . Lalu akan muncul nama user dan email yang di masukkan. Konfigurasi ini juga disimpan di $HOME/.gitconfig. Untuk sistem operasi Linux, dan untuk Sistem Operasi Windows disimpan di C:\Document and Settings\NamaUser dengan nama file .gitconfig
 
+Penjelasan Repo Dan Cara membuat Repo
+
+Seperti pengertian diatas GitHub adalah layanan Web yang menggunakan Kendali Git.Di GitHub terdapat salah satu fitur gratis disebut repository(disingkat dengan repo) repo adalah direktori atau folder untuk menyimpan berbagai file yang kita buat seperti Source Code, Dokumen, Foto ,dan Lain lain. Setelah membuat Repo, repo tersebut dapat diisi dengan membuat file baru maupun upload file kita sendiri ke repo . file yang berada di repo dapat di download atau clone, serta dengan fitur commit kita dapat menyimpan semua perubahan pada file tersebut. jika sudan mendownload file di Repo yang ada dari GitHub, kita bisa membuka nya melalui text editor yang kita pilih saat instalasi. Dengan demikian, untuk setiap file repo, kita dapat membuka di komputer lokal dan melakukan berbagai manipulasi di komputer lokal, setelah itu mengirimkan hasilnya ke repo GitHub. Proses ini disebut dengan proses push.     
+
+Cara membuat repo
+
+1. Pertama buka GitHub dan pastikan akun sudah terhubung lalu klik tombol plus di kanan lalu klik new Repository
+2. Isi nama Repo dan Deskripsi san pilih jenis repo publik atau private setelah itu klik Create repository
+3. Setelah itu kita dapat langsung membuat file dengan klik "Creating new file" untuk file baru dan "Upload" untuk mengupload file yang sudah ada , dan kita juga dapat membuat file menggunkan command line di bawah ini
+    echo "# Coba" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/FarhanWidyanaM/Coba.git
+    git push -u origin main
+4. Untuk membuat file dengan command line kita harus membuat folder di Komputer lokal lalu masuk ke folder dan klik kanan, lalu klik Git bash Here setelah itu masukkan command line satu persatu 
+5. Setelah itu mucul file README.md dan lakukan First Commit dengan  git commit -m "first commit"
+6. Lalu lakukan Remote Repository dengan  git remote add origin https://github.com/FarhanWidyanaM/Coba.git
+7. Terakhir lakukan push ke github dengan git push -u origin main
+
