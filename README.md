@@ -16,4 +16,15 @@ Langakah langakah install git di Windows
 7. Pilih OpenSSL untuk HTTPS. Git menggunakan https untuk akes ke repo GitHub
 8. Setelah itu akan muncul opsi Configuring ekstra option centang Enable file system caching untuk menambah performace boost, kemudian klik install 
 9. Setelah install selesai klik finish (Untuk cek apakah Git sudah terinstall dengan masukkan command "git --version" di CMD kalau sudah muncul versi git berarti git sudah terinstall)
-10. Untuk menjalankan GIt dapat melalui Icon di desktop atau dengan search GIT dan akan muncul git bash lalu jalankan  
+10. Untuk menjalankan GIt dapat melalui Icon di desktop atau dengan search GIT dan akan muncul git bash lalu jalankan 
+
+Konfigurasi Git 
+
+Pertama kita harus membuat akun di github terlebih dahulu berikut link github https://github.com/ setelah mempunyai akun github kita d harus memberitahu Git tentang username serta email yang digunakan agar setiap kali terjadi perubahan pada repo Git. Username serta email ini yang akan dimasukkan oleh Git ke catatan perubahan di repo. 
+
+Untuk langkah langkah 
+1. Jalankan Git Bash lalu ketik command seperti ini $ git config --global user.name "Nama USer sesuai akun di GitHub"
+$ git config --global user.email "Nama Email yang digunakan"
+
+2. untuk mengecek ketik comannd seperti ini $ git config --list . Lalu akan muncul nama user dan email yang di masukkan. Konfigurasi ini juga disimpan di $HOME/.gitconfig. Untuk sistem operasi Linux, dan untuk Sistem Operasi Windows disimpan di C:\Document and Settings\NamaUser dengan nama file .gitconfig
+
