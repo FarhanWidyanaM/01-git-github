@@ -9,13 +9,20 @@ Github adalah sebuah website yang menyediakan layanan cloud untuk mengelola doku
 Langakah langakah install git di Windows
 1. pertama download Git di https://git-scm.com/downloads sesuaikan dengan versi bit laptop nya
 2. Setelah download Git, klik dua kali file yang di download tadi dan file akan langsung install git. lalu munculkan lisensi. Klik Next untuk lanjut.
+![1](https://user-images.githubusercontent.com/91450726/135224602-234f368b-23b4-4ea5-bc48-f89e6395ad02.png)
 3. pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika ingin lokasi lain,lalu klik Next
+![2](https://user-images.githubusercontent.com/91450726/135225314-4243b7c5-e21e-4b53-9719-342ba5bd886d.png)
 4. lalu terdapat berbagai komponen. Jika tidak yakin dengan pilihan komponen sebaiknya tidak perlu diubah biarkan default saja. klik Next
-5. Akan terdapat pilihan Text Editor yang akan digunakan dengan git, Pilih sesuai Text editor yang biasa digunakan atau yang diinginkan
+5. Akan terdapat pilihan Text Editor yang akan digunakan dengan git, Pilih sesuai Text editor yang biasa digunakan atau yang diinginkan disini saya memakai VS Code
+![5](https://user-images.githubusercontent.com/91450726/135225542-36171a49-ed2b-40e3-9207-d5ee8faaadb6.png)
 6. Git juga menyediakan akses untuk menggunkan git melalui Bash maupun Command Prompt, akan ada opsi dimana penggunaan Bash ataupun CMD  saat instalasi, disarankan Menggunakan Keduanya agar dapat dijalankan dengan Bash dan CMD
-7. Pilih OpenSSL untuk HTTPS. Git menggunakan https untuk akes ke repo GitHub
+![6](https://user-images.githubusercontent.com/91450726/135225627-b05c00e9-4d43-4bdd-902d-468b5892b12a.png)
+7. Pilih OpenSSL untuk HTTPS. Git menggunakan https untuk akses ke repo GitHub
+![8](https://user-images.githubusercontent.com/91450726/135225869-b4a2add3-2f37-4ea4-a656-cbebd67933eb.png)
 8. Setelah itu akan muncul opsi Configuring ekstra option centang Enable file system caching untuk menambah performace boost, kemudian klik install 
+![13](https://user-images.githubusercontent.com/91450726/135226095-f83e7de6-3ce2-40a7-bd77-ef00613fd20d.png)
 9. Setelah install selesai klik finish (Untuk cek apakah Git sudah terinstall dengan masukkan command "git --version" di CMD kalau sudah muncul versi git berarti git sudah terinstall)
+![16](https://user-images.githubusercontent.com/91450726/135226774-31b3336a-ce12-451a-9e38-1db2830548c5.png)
 10. Untuk menjalankan GIt dapat melalui Icon di desktop atau dengan search GIT dan akan muncul git bash lalu jalankan 
 
 Konfigurasi Git 
