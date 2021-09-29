@@ -12,7 +12,7 @@ Langakah langakah install git di Windows
 ![1](https://user-images.githubusercontent.com/91450726/135224602-234f368b-23b4-4ea5-bc48-f89e6395ad02.png)
 3. pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika ingin lokasi lain,lalu klik Next <br>
 
-![2](https://user-images.githubusercontent.com/91450726/135225314-4243b7c5-e21e-4b53-9719-342ba5bd886d.png)
+![2](https://user-images.githubusercontent.com/91450726/135228639-4c37b54d-0140-4172-9fa6-ad9b8605d0c8.png)
 
 4. lalu terdapat berbagai komponen. Jika tidak yakin dengan pilihan komponen sebaiknya tidak perlu diubah biarkan default saja. klik Next <br>
 
