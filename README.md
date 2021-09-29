@@ -9,6 +9,7 @@ Github adalah sebuah website yang menyediakan layanan cloud untuk mengelola doku
 Langakah langakah install git di Windows
 1. pertama download Git di https://git-scm.com/downloads sesuaikan dengan versi bit laptop nya
 2. Setelah download Git, klik dua kali file yang di download tadi dan file akan langsung install git. lalu munculkan lisensi. Klik Next untuk lanjut.
+![1](https://user-images.githubusercontent.com/91450726/135224602-234f368b-23b4-4ea5-bc48-f89e6395ad02.png)
 3. pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika ingin lokasi lain,lalu klik Next
 4. lalu terdapat berbagai komponen. Jika tidak yakin dengan pilihan komponen sebaiknya tidak perlu diubah biarkan default saja. klik Next
 5. Akan terdapat pilihan Text Editor yang akan digunakan dengan git, Pilih sesuai Text editor yang biasa digunakan atau yang diinginkan
