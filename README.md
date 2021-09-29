@@ -37,13 +37,13 @@ Cara membuat repo
 1. Pertama buka GitHub dan pastikan akun sudah terhubung lalu klik tombol plus di kanan lalu klik new Repository
 2. Isi nama Repo dan Deskripsi san pilih jenis repo publik atau private setelah itu klik Create repository
 3. Setelah itu kita dapat langsung membuat file dengan klik "Creating new file" untuk file baru dan "Upload" untuk mengupload file yang sudah ada , dan kita juga dapat membuat file menggunkan command line di bawah ini
-    echo "# Coba" >> README.md
+    echo "# Coba" >> README.md<br>
     git init<br>
-    git add README.md
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin https://github.com/FarhanWidyanaM/Coba.git
-    git push -u origin main
+    git add README.md<br>
+    git commit -m "first commit"<br>
+    git branch -M main<br>
+    git remote add origin https://github.com/FarhanWidyanaM/Coba.git<br>
+    git push -u origin main<br>
 4. Untuk membuat file dengan command line kita harus membuat folder di Komputer lokal lalu masuk ke folder dan klik kanan, lalu klik Git bash Here setelah itu masukkan command line satu persatu 
 5. Setelah itu mucul file README.md dan lakukan First Commit dengan  git commit -m "first commit"
 6. Lalu lakukan Remote Repository dengan  git remote add origin https://github.com/FarhanWidyanaM/Coba.git
