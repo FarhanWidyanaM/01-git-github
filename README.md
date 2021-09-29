@@ -38,7 +38,7 @@ Cara membuat repo
 2. Isi nama Repo dan Deskripsi san pilih jenis repo publik atau private setelah itu klik Create repository
 3. Setelah itu kita dapat langsung membuat file dengan klik "Creating new file" untuk file baru dan "Upload" untuk mengupload file yang sudah ada , dan kita juga dapat membuat file menggunkan command line di bawah ini
     echo "# Coba" >> README.md
-    git init
+    git init<br>
     git add README.md
     git commit -m "first commit"
     git branch -M main
