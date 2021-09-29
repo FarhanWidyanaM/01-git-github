@@ -23,7 +23,7 @@ Langakah langakah install git di Windows
 <br>
 6. Git juga menyediakan akses untuk menggunkan git melalui Bash maupun Command Prompt, akan ada opsi dimana penggunaan Bash ataupun CMD  saat instalasi, disarankan Menggunakan Keduanya agar dapat dijalankan dengan Bash dan CMD <br>
 
-![6](https://user-images.githubusercontent.com/91450726/135225627-b05c00e9-4d43-4bdd-902d-468b5892b12a.png)<br>
+![6](https://user-images.githubusercontent.com/91450726/135228661-54659425-8c1a-49c9-a840-a13144e490bf.png)
 
 7. Pilih OpenSSL untuk HTTPS. Git menggunakan https untuk akses ke repo GitHub <br>
 
