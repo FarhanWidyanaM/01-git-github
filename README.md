@@ -23,7 +23,7 @@ Konfigurasi Git
 Pertama kita harus membuat akun di github terlebih dahulu berikut link github https://github.com/ setelah mempunyai akun github kita d harus memberitahu Git tentang username serta email yang digunakan agar setiap kali terjadi perubahan pada repo Git. Username serta email ini yang akan dimasukkan oleh Git ke catatan perubahan di repo. 
 
 Untuk langkah langkah 
-1. Jalankan Git Bash lalu ketik command seperti ini $ git config --global user.name "Nama USer sesuai akun di GitHub"
+1. Jalankan Git Bash lalu ketik command seperti ini <br>$ git config --global user.name "Nama User sesuai akun di GitHub"<br>
 $ git config --global user.email "Nama Email yang digunakan"
 
 2. untuk mengecek ketik comannd seperti ini $ git config --list . Lalu akan muncul nama user dan email yang di masukkan. Konfigurasi ini juga disimpan di $HOME/.gitconfig. Untuk sistem operasi Linux, dan untuk Sistem Operasi Windows disimpan di C:\Document and Settings\NamaUser dengan nama file .gitconfig
@@ -47,5 +47,5 @@ Cara membuat repo
 4. Untuk membuat file dengan command line kita harus membuat folder di Komputer lokal lalu masuk ke folder dan klik kanan, lalu klik Git bash Here setelah itu masukkan command line satu persatu 
 5. Setelah itu mucul file README.md dan lakukan First Commit dengan  git commit -m "first commit"
 6. Lalu lakukan Remote Repository dengan  git remote add origin https://github.com/FarhanWidyanaM/Coba.git
-7. Terakhir lakukan push ke github dengan git push -u origin main
+7. Terakhir lakukan push ke github dengan command git push -u origin main 
 
