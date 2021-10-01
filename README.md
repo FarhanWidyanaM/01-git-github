@@ -58,7 +58,7 @@ Cara membuat repo
 1. Pertama buka GitHub dan pastikan akun sudah terhubung lalu klik tombol plus di kanan lalu klik new Repository<br>
    ![18](https://user-images.githubusercontent.com/91450726/135624691-102a5842-cf7a-4415-ac1e-b4087f10aff5.png)
 2. Isi nama Repo dan Deskripsi san pilih jenis repo publik atau private setelah itu klik Create repository<br>
-   ![19](https://user-images.githubusercontent.com/91450726/135624702-d99ea7ce-5da9-4e29-93ac-483a585feac7.png)
+   ![21](https://user-images.githubusercontent.com/91450726/135625303-b0548d1d-3245-4770-8a5f-ec21fa59b631.png)
 3. Setelah itu kita dapat langsung membuat file dengan klik "Creating new file" untuk file baru dan "Upload" untuk mengupload file yang sudah ada , dan kita juga dapat membuat file README dengan mencentang Create README<br>
    ![20](https://user-images.githubusercontent.com/91450726/135624711-a9c25ece-c7fa-40a6-adc6-74dc26c0c499.png)
    atau menggunkan command line di bawah ini<br>
