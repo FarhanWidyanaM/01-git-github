@@ -53,7 +53,7 @@ Penjelasan Repo Dan Cara membuat Repo
 
 Seperti pengertian diatas GitHub adalah layanan Web yang menggunakan Kendali Git.Di GitHub terdapat salah satu fitur gratis disebut repository(disingkat dengan repo) repo adalah direktori atau folder untuk menyimpan berbagai file yang kita buat seperti Source Code, Dokumen, Foto ,dan Lain lain. Setelah membuat Repo, repo tersebut dapat diisi dengan membuat file baru maupun upload file kita sendiri ke repo . file yang berada di repo dapat di download atau clone, serta dengan fitur commit kita dapat menyimpan semua perubahan pada file tersebut. jika sudan mendownload file di Repo yang ada dari GitHub, kita bisa membuka nya melalui text editor yang kita pilih saat instalasi. Dengan demikian, untuk setiap file repo, kita dapat membuka di komputer lokal dan melakukan berbagai manipulasi di komputer lokal, setelah itu mengirimkan hasilnya ke repo GitHub. Proses ini disebut dengan proses push.     
 
-Cara membuat repo
+Cara Membuat Repo
 
 1. Pertama buka GitHub dan pastikan akun sudah terhubung lalu klik tombol plus di kanan lalu klik new Repository<br>
    ![18](https://user-images.githubusercontent.com/91450726/135624691-102a5842-cf7a-4415-ac1e-b4087f10aff5.png)
@@ -74,5 +74,18 @@ Cara membuat repo
 5. Setelah itu mucul file README.md dan lakukan First Commit dengan  git commit -m "first commit"
 6. Lalu lakukan Remote Repository dengan  git remote add origin https://github.com/FarhanWidyanaM/Coba.git
 7. Terakhir lakukan push ke github dengan command git push -u origin main
+
+Cara Clone Repo
+
+1. Pertama pastikan terhubung dengan akun github dan koneksi Internet<br>
+
+2. lalu masuk ke Repo yang ingin di clone, kemudian klik Code di bagian kanan sebelah add file , di situ kita dapat download repo sebagai zip file, kita juga bisa clone dengan meg copy link dibawah ini  <br>
+   https://github.com/FarhanWidyanaM/01-git-github.git <br>
+   ![22](https://user-images.githubusercontent.com/91450726/135705549-b6835d33-0674-4245-ad0a-c756da413acc.png)
+
+3. 
+
+
+
  
 
