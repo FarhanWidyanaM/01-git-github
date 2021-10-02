@@ -83,7 +83,17 @@ Cara Clone Repo
    https://github.com/FarhanWidyanaM/01-git-github.git <br>
    ![22](https://user-images.githubusercontent.com/91450726/135705549-b6835d33-0674-4245-ad0a-c756da413acc.png)
 
-3. 
+3. Pilih folder di komputer kita tempat untuk meletakkan repo yang akan di clone, lalu klik kanan dan klik GIT Bash here<br>
+   
+   ![23](https://user-images.githubusercontent.com/91450726/135705553-6a268100-f487-4ef7-b7f8-e3d457735eff.png)
+
+4. Kemudian isi dengan command line $ git clone dan sertakan link yang tadi kita copy https://github.com/FarhanWidyanaM/01-git-github.git seperti yang ada di gambah bawah ini, lalu ENTER<br>
+
+   ![24](https://user-images.githubusercontent.com/91450726/135705557-af4076e5-fe65-4a6f-8a36-3e589cb7ff3f.png)
+
+5. Jika muncul seperti gambar di bawah ini berati repo telah berhasil di clone <br>
+
+   ![25](https://user-images.githubusercontent.com/91450726/135705558-47e8dd97-6afa-439f-ac13-4111648fcda8.png)
 
 
 
